@@ -88,7 +88,6 @@ PyGetWindow==0.0.9
 Pygments==2.11.2
 PyMsgBox==1.0.9
 pyobjc==8.1
-pyobjc-core==8.1
 pyobjc-framework-Accessibility==8.1
 pyobjc-framework-Accounts==8.1
 pyobjc-framework-AddressBook==8.1
